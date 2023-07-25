@@ -1,6 +1,10 @@
 # Ant Academy - Pharaoh Backend
 
-This project builds RESTful APIs using Node.js, Express and Mongoose
+"As part of my internship at Ant Colony, I had the opportunity to work with my collegues on the backend development using Node.js and MongoDB as the primary database. My responsibilities included designing and implementing RESTful APIs to handle data retrieval and manipulation, as well as integrating various third-party services to enhance functionality.
+
+This is how site looks like 
+
+https://www.figma.com/file/iYWrMNjpePQwGAX4j6X4fc/AC---Internal-Tool?type=design&node-id=38-660&mode=design&t=l9BIxCZbwvS3RF9K-0
 
 ## Manual Installation
 
